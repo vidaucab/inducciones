@@ -589,6 +589,20 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 @media (max-width: 640px) {
 #intro .intro-body H1 {
 	font-size: 30px;
+	width: 100%;
+	height: auto;
+	padding: 100px 0;
+
+}
+}
+
+@media (max-width: 640px) {
+.img-circle{
+	width: 150px
+}
+.img-responsive{
+	width: 400px;
+
 }
 }
 
