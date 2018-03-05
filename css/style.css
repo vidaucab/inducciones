@@ -164,6 +164,7 @@ hr {
 	color: #fff;
 	background: url(../img/01.jpg) no-repeat center center fixed;
 	background-color: #000;
+
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -262,7 +263,7 @@ hr {
 /* Services Section */
 #services {
 	padding: 140px 0;
-	background: url(../img/02.jpg);
+	background: url(../img/02.jpg) ;
 	background-size: cover;
 	background-attachment: fixed;
 }
