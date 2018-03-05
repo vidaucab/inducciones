@@ -5,6 +5,7 @@ body, html {
 	color: #777;
 	width: 100% !important;
 	height: 100% !important;
+
 }
 h1 {
 	font-weight: 700;
@@ -162,7 +163,7 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/01.jpg) no-repeat center center fixed;
+	background: url(../img/88.jpg) no-repeat center center fixed;
 	background-color: #000;
 
 	-webkit-background-size: cover;
@@ -263,7 +264,7 @@ hr {
 /* Services Section */
 #services {
 	padding: 140px 0;
-	background: url(../img/02.jpg) ;
+	background: url(../img/77.jpg) ;
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -439,7 +440,7 @@ img.img-thumbnail.team-img {
 }
 /* Testimonials Section */
 #testimonials {
-	background: url(../img/03.jpg);
+	background: url(../img/55.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	color: #ddd;
@@ -593,6 +594,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	width: 100%;
 	height: auto;
 	padding: 100px 0;
+
 
 }
 }
