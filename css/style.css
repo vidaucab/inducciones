@@ -31,7 +31,7 @@ h4 {
 }
 h5 {
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 0px;
 	line-height: 20px;
 }
 p {
@@ -225,11 +225,11 @@ hr {
 }
 /* About Section */
 #about {
-	padding: 140px 0;
+	padding: 50px 0;
 	background: #FAFAFA;
 }
 #about .about-text {
-	margin-left: 100px;
+
 }
 #about H4 {
 	font-size: 20px;
@@ -263,7 +263,7 @@ hr {
 }
 /* Services Section */
 #services {
-	padding: 140px 0;
+	padding: 50px 0;
 	background: url(../img/77.jpg) ;
 	background-size: cover;
 	background-attachment: fixed;
@@ -292,7 +292,7 @@ hr {
 }
 /* Gallery Section */
 #works {
-	padding: 120px 0;
+	padding: 50px 0;
 	background: #FAFAFA;
 }
 .categories {
@@ -420,7 +420,7 @@ ol.type li a:hover {
 }
 /* Team Section */
 #team {
-	padding: 140px 0;
+	padding: 50px 0;
 	background: #e6e6e6;
 }
 img.img-thumbnail.team-img {
@@ -444,7 +444,7 @@ img.img-thumbnail.team-img {
 	background-size: cover;
 	background-attachment: fixed;
 	color: #ddd;
-	padding: 140px 0;
+	padding: 50px 0;
 }
 #testimonials h2 {
 	color: #FAFAFA;
@@ -934,7 +934,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
     .modalDialog > div {
 
         position: relative;
-        margin: 10% auto;
+        margin: 2% auto;
         padding: 5px 20px 13px 20px;
         border-radius: 10px;
         background: white
